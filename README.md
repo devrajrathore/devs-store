@@ -3,18 +3,22 @@
 # DEV'S STORE 👕✨
 ### Archival Indian Streetwear & Tactile Clothing Rail Experience
 
+[![Live Store](https://img.shields.io/badge/Live_Store-devs--store--coral.vercel.app-emerald?style=for-the-badge&logo=vercel)](https://devs-store-coral.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-16.4.3-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.3.0-20232A?style=for-the-badge&logo=react)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 <br />
 
 **A state-of-the-art, interactive fashion e-commerce storefront crafted for the Indian streetwear culture.**  
 Featuring a tactile physical clothing rail you can interact with right in your browser.
 
-[Live Demo](#-deployment) · [Explore Features](#-key-features) · [Local Setup](#-getting-started)
+<br />
+
+### 🚀 **[👉 VISIT LIVE STORE: devs-store-coral.vercel.app](https://devs-store-coral.vercel.app)**
+
+[Explore Highlights](#-key-highlights) · [Tech Stack](#-tech-stack) · [Local Setup](#-getting-started)
 
 </div>
 
@@ -106,14 +110,10 @@ npm run start
 
 ---
 
-## 🌐 Deployment (Vercel)
+## 🌐 Live Deployment
+The storefront is deployed on **Vercel** with global edge CDN:
 
-This project is optimized for 1-click zero-config deployment on **[Vercel](https://vercel.com)**:
-
-1. Push your code to your GitHub repository.
-2. Sign in to [Vercel](https://vercel.com) using your GitHub account.
-3. Click **"Add New..."** -> **"Project"** and import `devs-store`.
-4. Click **"Deploy"** and your site will be live in under a minute!
+🔗 **Production URL:** [https://devs-store-coral.vercel.app](https://devs-store-coral.vercel.app)
 
 ---
 
