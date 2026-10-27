@@ -18,8 +18,39 @@ Featuring a tactile physical clothing rail you can interact with right in your b
 
 ### 🚀 **[👉 VISIT LIVE STORE: devs-store-coral.vercel.app](https://devs-store-coral.vercel.app)**
 
-[Explore Highlights](#-key-highlights) · [Tech Stack](#-tech-stack) · [Local Setup](#-getting-started)
+[Explore Highlights](#-key-highlights) · [Screenshots](#-storefront-preview) · [Tech Stack](#-tech-stack) · [Local Setup](#-getting-started) · [Support](#-support--donate)
 
+<br />
+
+<a href="https://devs-store-coral.vercel.app">
+  <img src="./public/preview.png" alt="Dev's Store Clothing Rail Hero" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
+</a>
+
+<p align="center">
+  <em>Interactive 3D Clothing Rail Hero with Pan-India Delivery & Live Tactile Hangers</em>
+</p>
+
+</div>
+
+---
+
+## 📸 Storefront Preview
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <b>🛍️ Curated Catalog & Category Filters (₹ INR)</b>
+        <br/><br/>
+        <img src="./public/catalog-preview.png" alt="Curated Catalog" width="100%" style="border-radius: 8px;" />
+      </td>
+      <td width="50%" align="center">
+        <b>⚡ Slide-Over Bag, Free Delivery & UPI</b>
+        <br/><br/>
+        <img src="./public/cart-preview.png" alt="Slide-Over Cart" width="100%" style="border-radius: 8px;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -75,6 +106,9 @@ devs-store/
 │       ├── product-rail-gallery.tsx # SVG & Canvas physics clothing rail
 │       └── demo.tsx                 # 10 curated archival garments & specs
 └── public/
+    ├── preview.png          # High-resolution hero showcase
+    ├── catalog-preview.png  # Catalog grid preview
+    └── cart-preview.png     # Slide-over drawer preview
 ```
 
 ---
@@ -117,13 +151,32 @@ The storefront is deployed on **Vercel** with global edge CDN:
 
 ---
 
+## 💖 Support & Donate
+
+If you found this project inspiring, helpful, or fun to interact with, please consider supporting the creator!
+
+- ⭐ **Star this repository:** Click the Star button at the top-right of this page.
+- ☕ **Buy Me a Coffee / Chai:**
+  <br />
+  <a href="https://buymeacoffee.com/devrajrathore" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" />
+  </a>
+- 🇮🇳 **Support via UPI (India):**
+  > Send your support directly via any UPI app (GPay / PhonePe / Paytm / BHIM) to:  
+  > **`devrajrathore@upi`**
+
+Your support encourages the creation of more open-source creative web experiences! ✨
+
+---
+
 ## 👤 Author
 
 **Devraj Rathore**  
 - GitHub: [@devrajrathore](https://github.com/devrajrathore)
+- Portfolio / Live Store: [https://devs-store-coral.vercel.app](https://devs-store-coral.vercel.app)
 
 ---
 
 <div align="center">
-  <sub>Built with care for Indian Streetwear Culture · 2026</sub>
+  <sub>Crafted with passion for Indian Streetwear Culture · 2026</sub>
 </div>
