@@ -163,7 +163,7 @@ If you found this project inspiring, helpful, or fun to interact with, please co
   </a>
 - 🇮🇳 **Support via UPI (India):**
   > Send your support directly via any UPI app (GPay / PhonePe / Paytm / BHIM) to:  
-  > **`devrajrathore@upi`**
+  > **`devrajrathore13@ybl`**
 
 Your support encourages the creation of more open-source creative web experiences! ✨
 
