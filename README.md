@@ -161,9 +161,6 @@ If you found this project inspiring, helpful, or fun to interact with, please co
   <a href="https://buymeacoffee.com/devrajrathore" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" />
   </a>
-- 🇮🇳 **Support via UPI (India):**
-  > Send your support directly via any UPI app (GPay / PhonePe / Paytm / BHIM) to:  
-  > **`devrajrathore13@ybl`**
 
 Your support encourages the creation of more open-source creative web experiences! ✨
 
